@@ -8,5 +8,3 @@ const site = new Site('#site')
 site.render(model)
 
 const sidebar = new Sidebar('#panel')
-
-sidebar.render(model)
